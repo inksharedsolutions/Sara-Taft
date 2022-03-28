@@ -36,8 +36,8 @@ const ATB = (props) => {
 
                         <BookInfo
                             data={{
-                                title: `Calarel`,
-                                spanFirst: `The Beginning Journey`,
+                                title: `Mary Magdalene, Shaman`,
+                                spanFirst: `Awakening to the Indigenous Christian Soul`,
                                 imgSrc: Book1,
                                 id: 'sailor-sermon',
                                 content:
