@@ -23,27 +23,14 @@ const ATB = (props) => {
 
                 <div className="container">
                     <section className="body-author-contents columns">
-                        <div className="heading-quote column">
+                        {/* <div className="heading-quote column">
                             <div className="author-image-container">
                                 <img
                                     src={DummyImg}
                                     alt="_main_author" />
                             </div>
 
-                            {/* <div className="heading-quote">
-                                <h4>
-                                    - “What other’s think of me is none of my business.” And “When struggling with a decision, ask yourself this, ‘what is really going to mean a hundred years from now?"
-                                    <br />
-
-                                </h4>
-                                <p>
-                                    <spa className="author-name"></spa
-                                         <span className="author-span-ft">Author | Writer </span> 
-                                        <span className="ata-name">James Bosley</span>
-                                    </span>
-                                </p>
-                            </div> */}
-                        </div>
+                        </div> */}
 
 
                         <article className="article-section column" id="author">
@@ -59,14 +46,21 @@ const ATB = (props) => {
                             <p>
                             For the last ten years she has been on pilgrimages exploring and participating in the mysteries of the divine feminine. This interest has guided her to include cultures and religions outside of her familiar Judeo-Christian roots. She lived briefly with the Aboriginals in the Outback where she participated in some of their sacred rituals, she listened to the poetry and songs of the Celts and witnessed the majesty and mystery of Isis in Egypt. In Greece she met her ancestral Goddess lineage and recently at Angkor Wat in Cambodia she walked on the sacred ground where Buddhism and Hinduism intersected. Beneath the outward differences, Sara discovered the wondrous necessity of each religion as parts of the integral spiritual consciousness that is unfolding today on our planet.
                             </p>
+                    
+                            <p>
+                            Her liver transplant in 2000 returned her to her Christian origins in a new and surprising way. She formally was introduced to Mary Magdalene two years later on a pilgrimage to France. This profound meeting inspired Sara to give three years to painting and learning about this misunderstood woman.She resonated with Magdalene's own rebirth and teaching after the death of Jesus. She was inspired by this woman's spiritual comprehension of Christ's teachings and became aware of how Magdalene carries the central message and experience of the heart, love and compassion found missing today in many interpretations of Christianity. As a real woman, not a goddess, Magdalene became Sara's sacred image of the feminine for her own healing after her transplant.
+                            </p>
 
+                            <p>
+                            The eighteen paintings and legendary narratives of Magdalene's life have been shown and well received in Los Angeles at the Agape International Spiritual Center, at the Cedar Centre Art Gallery in Lancaster and in Palo Alto at the Institute for Transpersonal Psychology. Sara is currently working on a book, “Awakening to the Light of Mary Magdalene” where she will tell her own personal healing story and weave it into the beautiful narratives and paintings of Magdalene. Her hope is that her story will inspire many others in the healing of their lives and how the divine feminine is available for healing whatever the pain or sorrow may be.
+                            </p>
 
 
                             <p>
                                 <span className="author-name">
                                     <span className="author-span-ft">Author | Writer </span>
                                     <span className="ata-name">Sara Taft</span>
-                                </span>
+                                </span> 
                             </p>
 
                         </article>

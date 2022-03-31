@@ -49,12 +49,12 @@ const ATB = (props) => {
                                     
                                     At 62, Sara was faced with having to have a liver transplant if she wanted to live. Not knowing if she would get one because they were scarce, her intense prayer work with her community of women, and a twelve hour ritualistic shamanic healing in the Arizona desert facilitated a miraculous gift of a new liver and a successful transplant.
                                     
-                                    Today at age 86, she has lived long enough to welcome seven grandchildren and three great grandchildren. Her prayers were answered
+                                    Today at age 86, she has lived long enough to welcome seven grandchildren and three great grandchildren. Her prayers were answered!
                                     </p>
                                     `,
                                 ebooks: {
                                     // stratton: 'https://www.stratton-press.com/books/heroes-and-villains-california-dreaming-book-i/',
-                                    barnes: 'https://www.barnesandnoble.com/w/mary-magdalene-shaman-sara-taft/1118198329?ean=9781452587165',
+                                    barnes: 'https://www.barnesandnoble.com/w/mary-magdalene-shaman-sara-taft/1118198329?ean=9781648956539',
                                     amazon: 'https://www.amazon.com/Mary-Magdalene-Shaman-Awakening-Indigenous-ebook/dp/B09P1XZC7D/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1640874531&sr=8-1',
                                 },
                                 paperback: {
